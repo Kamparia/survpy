@@ -227,3 +227,7 @@ def ellip2cart(latitude,longitude,height):
     print("Ellipsoidal Eastings:", X)
     print("Ellipsoidal Height:", Z)
     
+
+'''
+    Note: To install SurvPy locally, copy the suvypy folder into the Python site-packages directory on your system.
+'''
